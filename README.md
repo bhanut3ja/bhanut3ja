@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **Wordpress , MEARN**
+- 💬 Ask me about **Wordpress , MERN**
 
 - 📫 How to reach me **vbhanuteja3@gmail.com**
 
